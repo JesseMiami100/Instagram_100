@@ -1,0 +1,62 @@
+
+body {
+    background-color: white;
+}
+
+#header {
+    background: white;
+    border: none;
+    text-align: center;
+    width: 650px;
+    margin: auto;
+}
+
+#main {
+    background-color: rgb(248, 245, 245);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh9U6P7n_6fQuYe3PsYsY5BueqSsGXgerY8Q&usqp=CAU");
+    border: none;
+    text-align: center;
+    width: 650px;
+    height: 960px;
+    margin-left: 117px;
+    position: absolute;
+    z-index: 0;
+    opacity: 0.1;
+}
+
+p {
+    font-size: 55%;
+    background-color: white;
+}
+
+.picheader{
+ border:;
+ padding: 6px;
+ margin-top: -31px;
+ position: absolute;
+ z-index: 2;
+}
+
+.picfooter{
+ border: none;
+ padding: 5px;
+ margin-top: -4px;
+ position: absolute;
+ z-index: 3;
+}
+
+#images {
+    width: none;
+    height: none; 
+    vertical-align: middle;
+    margin-top: 60px; 
+    margin-left: 315px;
+    position: absolute;
+    z-index: 1;
+}
+
+#imges, .pic {
+    width: 265px;
+    height: 200px;
+    border: none;
+}
