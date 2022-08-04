@@ -9,6 +9,8 @@ body {
     text-align: center;
     width: 650px;
     margin: auto;
+    margin-top: 10px; 
+    margin-left: 122px;
 }
 
 #main {
